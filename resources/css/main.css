@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Roboto:wght@300&display=swap');
+body {
+    background-color: #868686;
+}
+header {
+    background-color: #34474f;
+    color: #fff;
+    margin-top: -20px;
+    font-size: 20px;
+    margin-left: -8px;
+    margin-right: -10px;
+}
+li {
+    display: inline-block;
+    padding: 30px;
+}
+.south {
+    background-color: #669;
+    text-align: center;
+    padding: 30px;
+    margin-top: 130px;
+    margin-left: -9px;
+    margin-right: -9px;
+}
+.word {
+    margin-top: 200px;
+    padding-left: 20px;
+}
+.word h4 {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+.img-container {
+    margin-top: 70px;
+}
+.img-container img {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.first {
+    background-color: #868686;
+    margin-left: -10px;
+    margin-right: -15px;
+}
+.second {
+    background-color: #669;
+    padding: 50px;
+    margin-top: 100px;
+    margin-left: -8px;
+    margin-right: -10px;
+}
+p {
+    font-size: 20px;
+}
+.second h2 {
+    font-family: "Macondo", cursive;
+    color: #fff;
+}
+.second p {
+    font-family: "Roboto", sans-serif;
+}
+.come {
+    text-align: center;
+    color: #fff;
+}
+.come h3 {
+    font-size: 2rem;
+}
+footer {
+    background-color: #34474f;
+    color: #fff;
+    margin-bottom: -20px;
+    font-size: 20px;
+    margin-left: -8px;
+    margin-right: -10px;
+}
